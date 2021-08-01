@@ -1,0 +1,7 @@
+export const POSTS_ACTIONS = {
+    GET_POSTS: "GET_POSTS",
+    CREATE_POSTS: "CREATE_POSTS"
+}
+export const COMMENTS_ACTIONS = {
+    ADD_COMMENT: "ADD_COMMENT"
+}
